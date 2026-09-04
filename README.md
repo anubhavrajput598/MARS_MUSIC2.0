@@ -17,7 +17,7 @@
   🤖 Clone System
   🚀 Cloud Ready
 </pre><p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=18&duration=4000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=🎧+Premium+Telegram+VC+Music+Bot;⚡+Powered+by+yt-dlp+%26+Kurigram;🤖+Multi-Bot+Clone+System;🚀+Deploy+on+Render+Koyeb+Railway+VPS" alt="typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=18&duration=4000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=🎧+Premium+Telegram+VC+Music+Bot;⚡+Powered+by-dlp+%26+@mars24x7;🤖+Multi-Bot+Clone+System;🚀+Deploy+on+Render+Koyeb+Railway+VPS" alt="typing animation" />
 </p><p align="center">
 <a href="https://github.com/marsbots/marsmusic/stargazers"><img src="https://img.shields.io/github/stars/marsbots/marsmusic?color=black&logo=github&logoColor=white&style=for-the-badge" alt="Stars"/></a>
 <a href="https://github.com/marsbots/marsmusic/network/members"><img src="https://img.shields.io/github/forks/marsbots/marsmusic?color=black&logo=github&logoColor=white&style=for-the-badge"/></a>
